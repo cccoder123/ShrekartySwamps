@@ -1,0 +1,3 @@
+<title>Easy</title>
+<p><a href="bedrockeasy.html">Here</a> for bedrock.</p>
+<p><a href="javaeasy.html">Here</a> for java.</p>
